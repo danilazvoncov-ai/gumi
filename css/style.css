@@ -1,0 +1,36 @@
+.card {
+    background-color: #1e1e2e;
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    width: 230px;
+}
+.gg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.sous {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.card h3{
+    margin-bottom: -20px;
+    color:white;
+}
+.card p {
+    color:rgb(85, 79, 79);
+}
+#rr {
+    color: white;
+    background-color: rgb(53, 53, 207);
+    border: 0px solid #1e1e2e;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+}
